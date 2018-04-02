@@ -4,5 +4,9 @@ Website for breaking spaces real bad.
 
 ## TODO
 
-- [ ] get key to the space
+- [x] get key to the space
+- [ ] create logo
 - [ ] add yours here
+- [ ] create instagram @breakerspaces
+- [ ] create twitter @breakerspaces
+- [ ] create fb @breakerspaces (add everyone)
