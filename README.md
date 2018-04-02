@@ -2,8 +2,14 @@
 
 
 # breakerspaces.org
-Website for breaking spaces real bad.
 
+Breaking down the work of art.
+
+## Concept
+
+- Cortex, 4240 Duncan Ave, is the site of Breakerspaces 01.
+- Work, 9-5 PM, M-Fr
+- 
 
 ## TODO
 
@@ -15,3 +21,8 @@ Website for breaking spaces real bad.
 - [x] create instagram @breakerspaces
 - [x] create twitter @breakerspaces
 - [x] create fb @breakerspaces (add everyone)
+
+## Projects
+
+- [ ] Breakerspaces.org
+- [ ] Add your project here.
