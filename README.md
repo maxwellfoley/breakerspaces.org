@@ -34,7 +34,8 @@
 
 ### Hayden Molinarolo
 
-- [ ] (INSERT BIO)
+- [x] Hayden Molinarolo is a photographer and digital artist based in St. Louis, MO. Taking cues from commercial photography, his work plunges into the uncanny valley through digitally manipulated images that challenge mainstream notions of beauty and normalcy. [Website](http://www.haydenmolinarolo.com/)
+
 
 ### Jon Phillips
 
