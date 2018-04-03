@@ -1,17 +1,14 @@
 ![](nielsen-house-wikimedia.jpg?raw=true)
 
-
-# breakerspaces.org
-
 Breaking down the work of art.
 
-## Concept
+# Concept
 
 - Cortex, 4240 Duncan Ave, is the site of Breakerspaces 01.
 - Work, 9-5 PM, M-Fr
 - 
 
-## TODO
+# TODO
 
 - [x] get key to the space
 - [x] create logo
@@ -22,7 +19,7 @@ Breaking down the work of art.
 - [x] create twitter @breakerspaces
 - [x] create fb @breakerspaces (add everyone)
 
-## Projects
+# Projects
 
 - [ ] Breakerspaces.org
 - [ ] Add your project here.
