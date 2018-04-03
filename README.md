@@ -28,3 +28,34 @@
 - [ ] http://Breakerspaces.org (ongoing)
 - [ ] Ikea Table Remix
 - [ ] Add your project here.
+
+
+## People
+
+### Hayden Molinarolo
+
+- [ ] (INSERT BIO)
+
+### Jon Phillips
+
+- [ ] (INSERT BIO)
+
+### Maxwell Foley
+
+- [ ] (INSERT BIO)
+
+### Add yourself :)
+
+
+## History
+
+- [ ] (INSERT HISTORY including Matt Hope linkage, realtime, etc)
+
+## Press
+
+- [ ] (insert press hits)
+
+## Social
+
+- [ ] (insert social media)
+
