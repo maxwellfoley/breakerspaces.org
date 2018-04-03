@@ -42,7 +42,7 @@
 
 ### Maxwell Foley
 
-- [ ] (INSERT BIO)
+- [x] Maxwell Foley is a software developer and digital artist and a recent graduate from Washington University in St. Louis. He is currently developing blockchain platforms for Fabricatorz and designing interactive gallery installations. [Website](http://skwrk.com) | [Instagram](http://instagram.com/skwrk)
 
 ### Add yourself :)
 
