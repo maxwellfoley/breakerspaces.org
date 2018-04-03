@@ -34,7 +34,7 @@
 
 ### Hayden Molinarolo
 
-- [x] Hayden Molinarolo is a photographer and digital artist based in St. Louis, MO. Taking cues from commercial photography, his work plunges into the uncanny valley through digitally manipulated images that challenge mainstream notions of beauty and normalcy. [Website](http://www.haydenmolinarolo.com/)
+- [x] [Hayden Molinarolo](http://www.haydenmolinarolo.com/) is a photographer and digital artist based in St. Louis, MO. Taking cues from commercial photography, his work plunges into the uncanny valley through digitally manipulated images that challenge mainstream notions of beauty and normalcy. 
 
 
 ### Jon Phillips
@@ -43,7 +43,7 @@
 
 ### Maxwell Foley
 
-- [x] Maxwell Foley is a software developer and digital artist and a recent graduate from Washington University in St. Louis. He is currently developing blockchain platforms for Fabricatorz and designing interactive gallery installations. [Website](http://skwrk.com) | [Instagram](http://instagram.com/skwrk)
+- [x] Maxwell Foley is a software developer and digital artist and a recent graduate from Washington University in St. Louis. He is currently developing blockchain platforms for Fabricatorz and designing interactive gallery installations. You can find his work on his [website](http://skwrk.com) or [social media](http://instagram.com/skwrk).
 
 ### Add yourself :)
 
